@@ -7,6 +7,8 @@ How to run this project.?
 - If downloaded then extract it your specified directory.
 - Now open the project with any code editor.
 - open the terminal and run "npm i".
+- All the dependencies required are installed.
+- Now run this command "npm start".
 - It will start and run in the development server i.e..http://localhost:3000
 
 
